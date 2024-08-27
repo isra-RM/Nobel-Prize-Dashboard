@@ -29,6 +29,7 @@ load_figure_template("SLATE")
 # Create app
 
 app = dash.Dash(__name__,external_stylesheets=[dbc.themes.SLATE,dbc_css])
+server = app.server
 
 
 
