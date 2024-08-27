@@ -20,4 +20,11 @@ For this analysis I used the following tools:
 -**Visual Studio Code**.\
 -**Git & GitHub**.
 
+# Key Findings
 
+* Notsurprisingly, USA is the clear winner when it comes to the number of Nobel laureates. Only France wins in the Literature category.
+* The geographical distribution of Nobel laureates in sciences (Economic Sciences, Physics, Chemistry, Physiology or Medicine), is predominantly located in Europe and North America, whereas for Peace and Literature is more widespread.
+* The US universities and research centers dominate with the highest amount of Nobel prize winners.
+* There is a significant disparity between men and women when it comes to sciences (Economic Sciences, Physics, Chemistry, Physiology or Medicine) compared to Peace and Literature, where it is less pronounced.
+* Inmigrants tend to win more Nobel prizes than natives, this is not unexpected, since many people from underdeveloped countries migrate to more developed countries in order to consolidate their professional careers.
+* The fifties is the golden decade, with most Nobel laureates lying in the interval between 50 to 60 years.
