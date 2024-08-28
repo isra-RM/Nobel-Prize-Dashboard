@@ -1,6 +1,8 @@
 # Introduction
 This is a simple dashboard with minimal interactivity to uncover some curious facts of the Nobel Prize history :electron: using the [Nobel Prize dataset](https://www.kaggle.com/datasets/imdevskp/nobel-prize) from Kaggle, which I corrected using Wikipedia information about missing dates of birth.  
 
+I deployed the dashboard on Render.com, you can check it out here: [Nobel Prize Dashboard](https://nobel-prize-dashboard.onrender.com/).
+
 ### Questions
 I wanted to know the following facts about the history of Nobel laureates:
 * What are the top countries with most laureates?
